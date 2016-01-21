@@ -50,8 +50,6 @@
 
     <!--CONTENT INJECTION POINT-->
     <section id="content">    
-         <h3>zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz-----</h3>
-
      {squarespace.main-content}
     </section>
 
